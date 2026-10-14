@@ -1,6 +1,6 @@
-streamlit==1.35.0
-anthropic==0.28.0
-mediapipe==0.10.14
-opencv-python-headless==4.9.0.80
-Pillow>=10.0.0
-numpy>=1.24.0
+streamlit
+google-genai
+mediapipe
+opencv-python-headless
+Pillow
+numpy
